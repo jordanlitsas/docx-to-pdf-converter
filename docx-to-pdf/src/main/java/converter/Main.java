@@ -1,11 +1,9 @@
+package converter;
+
 import org.apache.poi.xwpf.converter.pdf.PdfConverter;
 import org.apache.poi.xwpf.converter.pdf.PdfOptions;
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
-
 import java.io.*;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 
@@ -48,6 +46,7 @@ public class Main {
                     }
                 }
             }
+//        System.out.println("hello world");
         }
 
 

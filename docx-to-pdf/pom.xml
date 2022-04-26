@@ -10,7 +10,7 @@
     <dependencies>
         <dependency>
             <groupId>fr.opensagres.xdocreport</groupId>
-            <artifactId>org.apache.poi.xwpf.converter.pdf</artifactId>
+            <artifactId>org.apache.poi.xwpf</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
